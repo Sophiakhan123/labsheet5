@@ -29,6 +29,6 @@ jobs:
 
       # Step 4: Run main class
       - name: Run Java program
-        run: java Add
+        run: java EvenOdd
 
 
